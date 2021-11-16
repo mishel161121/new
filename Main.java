@@ -1,5 +1,5 @@
 public class Main {
-
+// את רואה את ההערה שלי?
    // לולאה לבדיקת מספר מספרים גדלים בטווח
     static int totalIncreasing (double num) {
         int totalNumbers=0;
